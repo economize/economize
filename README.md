@@ -20,7 +20,7 @@ I have served as a technical and economic pillar across the following organizati
 | **Dept. of Homeland Security (DHS)** | Economist | Built high-stakes risk-assessment models and conducted critical economic impact reviews for **billion-dollar infrastructure and security projects**. |
 | **Energy Information Admin (EIA)** | Senior Economist | *[Sept 2025]* Engineered predictive energy market models and optimized high-velocity data ingestion workflows to stabilize national energy reporting. |
 | **Bureau of Labor Statistics (BLS)** | Economist | Developed complex statistical frameworks and data pipelines for national economic indicators and labor market dynamics. |
-| **U.S. International Trade Commission (USITC)** | Engineered end-to-end Python and R automation pipelines for trade enforcement and delivered mission-critical global trade analytics that served as the evidentiary basis for rulings by Presidential-appointed Commissioners. |
+| **U.S. International Trade Commission (USITC)** | Economist | Engineered end-to-end Python and R automation pipelines for trade enforcement and delivered mission-critical global trade analytics that served as the evidentiary basis for rulings by Presidential-appointed Commissioners. |
 
 ---
 
