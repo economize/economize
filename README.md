@@ -6,26 +6,25 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://kamrond.notion.site/)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=mbGbUeQAAAAJ&hl=en)
 
-> **Economics-driven Data Science.** I specialize in the architecture of high-integrity data pipelines and advanced econometric modeling. With over a decade of experience across the nation’s most critical federal agencies, I transform massive administrative records into strategic intelligence for national-scale decision-making.
+> **Economics-driven Data Science.** I specialize in the architecture of high-integrity data pipelines, automated forecasting systems, and advanced econometric modeling. With over a decade of experience across the nation’s most critical federal agencies, I transform massive administrative records into strategic intelligence for national-scale decision-making.
 
 ---
 
 ## 🏛️ Professional Pedigree: The Federal Six
-I have served as a technical and economic pillar across the following organizations, modernizing how the U.S. government interprets its most vital data assets.
+I have served as a technical and economic pillar across the following organizations, modernizing how the U.S. government interprets and acts upon its most vital data assets.
 
 | Agency | Role | Core Impact & Technical Focus |
 | :--- | :--- | :--- |
-| **Energy Information Admin (EIA)** | Senior Economist | *[Sept 2025]* Engineered predictive energy market models and optimized high-velocity data ingestion workflows. |
-| **Bureau of Labor Statistics (BLS)** | Economist | Developed complex statistical frameworks for national economic indicators and labor market dynamics. |
-| **U.S. International Trade Commission (USITC)** | Economist | Leveraged Python/R to automate trade enforcement reporting and analyzed global trade flows. |
-| **Dept. of Homeland Security (DHS)** | Economist | Built high-stakes risk-assessment models and reviewed economic impact analysis for billion dollar projects. |
-| **U.S. Dept. of Agriculture (USDA)** | Economist | Applied causal inference, predictive models, and geospatial analysis to national agricultural productivity metrics shared with the Undersecretary of the US Dept. of Ag. |
-| **U.S. Dept. of Commerce** | Economist | **Census Bureau Specialization:** Architected microdata pipelines for the Economic Census for the Island Areas and aligned resources for $1T+ in federal fund distribution. |
+| **U.S. Dept. of Commerce** | Economist | **Census Bureau Specialization:** Architected microdata pipelines for the **Economic Census for the Island Areas** and aligned resources for **$1T+ in federal fund distribution**. |
+| **U.S. Dept. of Agriculture (USDA)** | Economist | Applied causal inference and geospatial analysis to national productivity metrics; delivered key briefings and data products directly to the **Undersecretary of the US Dept. of Agriculture**. |
+| **Dept. of Homeland Security (DHS)** | Economist | Built high-stakes risk-assessment models and conducted critical economic impact reviews for **billion-dollar infrastructure and security projects**. |
+| **Energy Information Admin (EIA)** | Senior Economist | *[Sept 2025]* Engineered predictive energy market models and optimized high-velocity data ingestion workflows to stabilize national energy reporting. |
+| **Bureau of Labor Statistics (BLS)** | Economist | Developed complex statistical frameworks and data pipelines for national economic indicators and labor market dynamics. |
+| **U.S. International Trade Commission (USITC)** | Economist | Leveraged Python and R to automate trade enforcement reporting and analyzed global trade flows to support federal litigation. |
 
 ---
 
 ## 🛠️ Technical Arsenal
----
 
 ### 💻 Programming & Core Data Science
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -59,7 +58,7 @@ I have served as a technical and economic pillar across the following organizati
 
 ---
 - **Specializations:** Causal Inference, Time-Series Forecasting, Automated ETL, ML Ops, Data Governance.
-- **2026 Focus:** Deploying **Local LLMs (DeepSeek/Gemma 2)** for secure data synthesis and architecting automated personal finance and fitness engines via Python & Google Sheets API.
+- **2026 Focus:** Deploying **Local LLMs (DeepSeek/Gemma 2)** for secure data synthesis and architecting automated **personal finance and fitness engines** via Python & Google Sheets API.
 
 ---
 
