@@ -32,5 +32,5 @@ I have served as a technical and economic pillar across the following organizati
 ---
 
 ## 📊 Activity & Impact
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=economize&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=economize&layout=compact&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=economize&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=economize&layout=compact&theme=tokyonight)
