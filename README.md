@@ -38,6 +38,7 @@ I have served as a technical and economic pillar across the following organizati
 ### 📈 Econometrics & Advanced Analytics
 ![Stata](https://img.shields.io/badge/Stata-0A5071?style=for-the-badge&logo=stata&logoColor=white)
 ![SAS](https://img.shields.io/badge/SAS-00487F?style=for-the-badge&logo=sas&logoColor=white)
+![EViews](https://img.shields.io/badge/EViews-1A5B96?style=for-the-badge&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=Plotly&logoColor=white)
