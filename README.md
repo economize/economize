@@ -1,4 +1,4 @@
-# Hi, I'm Kamron Daugherty 👋 
+# Hi, I'm Kamron Daugherty 👋🏾 
 ### Senior Data Scientist & Economist | Federal Data Strategy Specialist
 **10+ Years of Engineering High-Impact Insights for National Infrastructure & Policy**
 
