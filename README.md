@@ -4,6 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamrondaugherty/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://kamrond.notion.site/)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=mbGbUeQAAAAJ&hl=en)
 
 > **Economics-driven Data Science.** I specialize in the architecture of high-integrity data pipelines and advanced econometric modeling. With over a decade of experience across the nation’s most critical federal agencies, I transform massive administrative records into strategic intelligence for national-scale decision-making.
 
@@ -31,5 +32,5 @@ I have served as a technical and economic pillar across the following organizati
 ---
 
 ## 📊 Activity & Impact
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[economize]&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[economize]&layout=compact&theme=radical)
