@@ -10,7 +10,7 @@
 
 ---
 
-## 🏛️ Professional Pedigree: The Federal Six
+## 🏛️ Professional Pedigree: The Federal Seven
 I have served as a technical and economic pillar across the following organizations, modernizing how the U.S. government interprets and acts upon its most vital data assets.
 
 | Agency | Role | Core Impact & Technical Focus |
