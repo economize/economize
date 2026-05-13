@@ -66,5 +66,6 @@ I have served as a technical and economic pillar across the following organizati
 ---
 
 ## 📊 Activity & Impact
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=economize&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=economize&layout=compact&theme=tokyonight)
+![Kamron's Stats](https://github-readme-stats.vercel.app/api?username=economize&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=economize&layout=compact&theme=tokyonight&count_private=true&cache_seconds=1800)
