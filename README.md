@@ -27,15 +27,40 @@ I have served as a technical and economic pillar across the following organizati
 ## 📚 Selected Research & Technical Publications
 *Leveraging academic mathematical rigor to deploy scalable, data-driven methodology.*
 
-### 📄 [Options for ASEAN Trade Expansion: Within, Plus Three or Six, European Union or the United States?](https://scholar.google.com/citations?user=mbGbUeQAAAAJ&hl=en)
-*   **Context:** Published in *The World Economy* (2021). Investigated complex multi-regional macroeconomic trade integration and policy dynamics.
-*   **Technical Stack:** `Econometric Modeling` `Causal Inference` `Monte Carlo Simulations` `R` `GTAP`
-*   **Impact:** Designed structural multi-country frameworks to measure welfare and trade elasticity across international manufacturing markets.
+### 📄 [Short-Term Energy Outlook (STEO)](https://www.eia.gov/outlooks/steo/)
+* **Context:** Published monthly via **U.S. Energy Information Administration (EIA)**.
+* **Technical Focus:** `Macroeconomic Forecasting` `Time-Series Econometrics` `EViews` `Python` `Market Simulation`
+* **Impact:** Co-authored the federal government's premier monthly energy forecast. Engineered predictive models and data ingestion pipelines to project supply, demand, and price dynamics across global energy markets, directly driving national energy policy and multi-billion dollar commodity trading.
 
-### 📄 [International Food Security Assessment Models & Projections](https://scholar.google.com/citations?user=mbGbUeQAAAAJ&hl=en)
-*   **Context:** Published via **USDA Economic Research Service** (IFSA Series). Deployed structural modeling engines evaluating multi-country per capita caloric target deviations.
-*   **Technical Stack:** `Time-Series Forecasting` `Macroeconomic Ingestion Pipelines` `R` `Predictive Analytics`
-*   **Impact:** Generated baseline 10-year forecasts for 76 low- and middle-income nations to directly guide international aid asset allocation.
+### 📄 [Options for ASEAN Trade Expansion: Within, Plus Three or Six, European Union or the United States?](https://onlinelibrary.wiley.com/doi/abs/10.1111/twec.13038)
+* **Context:** Published in *The World Economy* (2020). 
+* **Technical Focus:** `Computable General Equilibrium (CGE)` `Monte Carlo Simulation` `R` `GTAP` `Large-Scale Data Integration`
+* **Impact:** Built and deployed a large-scale simulation engine to model trade policy scenarios across ASEAN nations. Implemented elasticity-based trade flow models to quantify multi-billion dollar economic impacts and tariff reduction scenarios at scale.
+
+### 📄 [Petroleum Production in Mexico Stabilizes After Years of Decline](https://www.eia.gov/todayinenergy/detail.php?id=56240#)
+* **Context:** Published via **U.S. Energy Information Administration (EIA)** (2023).
+* **Technical Focus:** `Time-Series Forecasting` `EViews` `Python` `R` `Power BI`
+* **Impact:** Authored data-driven analytics on global petroleum supply dynamics, serving as the lead production engineer for time-series forecasting infrastructure that directly informed international energy market strategy.
+
+### 📄 [Country Analysis Briefs: Global Energy Markets (Caspian Sea, France, Mexico, Norway, Türkiye)](https://www.eia.gov/international/analysis/country/TUR)
+* **Context:** Published via **U.S. Energy Information Administration (EIA)** (2023-2025).
+* **Technical Focus:** `Automated ETL Pipelines` `Time-Series Forecasting` `Data Quality Assurance`
+* **Impact:** Led the quantitative analysis of energy production, consumption, and infrastructure for key global markets, structuring the data pipelines that support national energy policy and multi-billion dollar investment intelligence. 
+
+### 📄 [Outlook for U.S. Agricultural Trade](https://www.ers.usda.gov/publications/pub-details?pubid=95473)
+* **Context:** Published via **USDA Economic Research Service (ERS) & Foreign Agricultural Service (FAS)** (AES Series).
+* **Technical Focus:** `SQL` `R` `Stata` `Automated ETL Pipelines` `Commodity Forecasting Models`
+* **Impact:** Owned end-to-end production analytics systems for quarterly trade forecasting. Managed large-scale trade databases and deployed predictive models serving executive stakeholders to support commodity market decisions.
+
+### 📄 [International Food Security Assessment, 2018-2029](https://www.ers.usda.gov/publications/pub-details?pubid=93658)
+* **Context:** Published via **USDA Economic Research Service (ERS)** (GFA Series).
+* **Technical Focus:** `Partial Equilibrium Models` `Scenario Analysis` `Econometric Simulation` `R` `Stata`
+* **Impact:** Co-architected large-scale econometric simulation systems projecting food insecurity across 76 countries over 10-year horizons. Built multi-source data integration pipelines for strategic international policy planning.
+
+### 📄 [Terror Alerts and Major League Baseball Attendance: Differences by Demographic Groups](https://www.proquest.com/openview/a684e02ae464fa733ebe222a4759753a/1?pq-origsite=gscholar&cbl=18750)
+* **Context:** Research analyzing behavioral analytics and consumer shifts in response to exogenous risk events (2015).
+* **Technical Focus:** `Causal Inference` `Fixed Effects Panel Regression` `Feature Engineering` `Stata`
+* **Impact:** Designed a causal inference pipeline with 25+ engineered demographic interaction features across 11,413 observations. Delivered statistically significant evidence of heterogeneous treatment effects translating to major revenue impacts.
 
 ---
 
