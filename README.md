@@ -32,6 +32,11 @@ I have served as a technical and economic pillar across the following organizati
 * **Technical Focus:** `Macroeconomic Forecasting` `Time-Series Econometrics` `EViews` `Python` `Market Simulation`
 * **Impact:** Co-authored the federal government's premier monthly energy forecast. Engineered predictive models and data ingestion pipelines to project supply, demand, and price dynamics across global energy markets, directly driving national energy policy and multi-billion dollar commodity trading.
 
+### 📄 [Seamless Refined Copper Pipe and Tube from Vietnam](https://www.usitc.gov/publications/701_731/pub5216.pdf)
+* **Context:** Published via **U.S. International Trade Commission (USITC)** (Inv. No. 731-TA-1528, Publication 5216).
+* **Technical Focus:** `Legal-Economic Modeling` `Trade Flow Analytics` `Python Automation` `Data Governance`
+* **Impact:** Engineered data aggregation and economic modeling pipelines to analyze global trade flows and market dumping scenarios. Delivered the definitive evidentiary foundation utilized by Presidential-appointed Commissioners for statutory regulatory rulings and antidumping duties on the international copper manufacturing market.
+
 ### 📄 [Options for ASEAN Trade Expansion: Within, Plus Three or Six, European Union or the United States?](https://onlinelibrary.wiley.com/doi/abs/10.1111/twec.13038)
 * **Context:** Published in *The World Economy* (2020). 
 * **Technical Focus:** `Computable General Equilibrium (CGE)` `Monte Carlo Simulation` `R` `GTAP` `Large-Scale Data Integration`
