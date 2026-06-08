@@ -39,7 +39,7 @@ I have served as a technical and economic pillar across the following organizati
 
 ### 📄 [Options for ASEAN Trade Expansion: Within, Plus Three or Six, European Union or the United States?](https://onlinelibrary.wiley.com/doi/10.1111/twec.13040)
 * **Context:** Published in *The World Economy* (2020). 
-* **Technical Focus:** `Computable General Equilibrium (CGE)` `Monte Carlo Simulation` `R` `GTAP` `Large-Scale Data Integration`
+* **Technical Focus:** `Computable General Equilibrium (CGE)` `Deterministic Scenario Modeling` `Comparative Statics` `R` `GTAP` `Large-Scale Data Integration`
 * **Impact:** Built and deployed a large-scale simulation engine to model trade policy scenarios across ASEAN nations. Implemented elasticity-based trade flow models to quantify multi-billion dollar economic impacts and tariff reduction scenarios at scale.
 
 ### 📄 [Petroleum Production in Mexico Stabilizes After Years of Decline](https://www.eia.gov/todayinenergy/detail.php?id=56240#)
