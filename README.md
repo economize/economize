@@ -37,7 +37,7 @@ I have served as a technical and economic pillar across the following organizati
 * **Technical Focus:** `Legal-Economic Modeling` `Trade Flow Analytics` `Python Automation` `Data Governance`
 * **Impact:** Engineered data aggregation and economic modeling pipelines to analyze global trade flows and market dumping scenarios. Delivered the definitive evidentiary foundation utilized by Presidential-appointed Commissioners for statutory regulatory rulings and antidumping duties on the international copper manufacturing market.
 
-### 📄 [Options for ASEAN Trade Expansion: Within, Plus Three or Six, European Union or the United States?](https://onlinelibrary.wiley.com/doi/abs/10.1111/twec.13038)
+### 📄 [Options for ASEAN Trade Expansion: Within, Plus Three or Six, European Union or the United States?](https://onlinelibrary.wiley.com/doi/abs/10.1111/twec.13038](https://onlinelibrary.wiley.com/doi/10.1111/twec.13040)
 * **Context:** Published in *The World Economy* (2020). 
 * **Technical Focus:** `Computable General Equilibrium (CGE)` `Monte Carlo Simulation` `R` `GTAP` `Large-Scale Data Integration`
 * **Impact:** Built and deployed a large-scale simulation engine to model trade policy scenarios across ASEAN nations. Implemented elasticity-based trade flow models to quantify multi-billion dollar economic impacts and tariff reduction scenarios at scale.
