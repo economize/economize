@@ -1,6 +1,6 @@
 # Hi, I'm Kamron Daugherty 👋 
 ### Senior Data Scientist & Economist | Federal Data Strategy Specialist
-**10+ Years of Engineering High-Impact Insights for National Infrastructure & Policy**
+**12+ Years of Engineering High-Impact Insights for National Infrastructure & Policy**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamrondaugherty/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://kamrond.notion.site/)
